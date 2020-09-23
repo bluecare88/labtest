@@ -1,0 +1,13 @@
+:x!
+t 
+f
+g
+h
+j
+`		fhfhsjha
+test	:wq
+t
+quit
+t
+sd
+
